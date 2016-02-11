@@ -1,0 +1,603 @@
+<html>
+<head>
+<title>Jean Mark Gawron</title>
+</head>
+    <!-- comment wow bgcolor="#69301C" pr "#2060a0"  #778899
+<body bgcolor="#A91609" text="#ffffff" link="#A5C531" vlink="#000000" 
+  alink="#cc3232">
+<body bgcolor="#BD190A" text="#ffffff" link="#ffff00" vlink="#ffffff" 
+  alink="#cc3232">
+<body bgcolor="#ce7171" text="#ffffff" link="#ffff00" vlink="#ffffff" 
+  alink="#cc3232">
+<img  align=middle hspace=8 src="gifs/tdoor.gif" alt="Room:"> EBA 321<br>
+-->
+<p align="left">
+<h1>Jean Mark Gawron</h1>
+</p>
+<div>
+<p>
+<table>
+<center>
+<table width=100% border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td>
+&nbsp;
+</td>
+<td colspan=2>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="gawron2.jpg" width=210><br>
+<table bgcolor="lightgray" width="210">
+<tr>
+<td>
+<a href="#classes">Classes</a> <br><br>
+<a href="http://bulba.sdsu.edu/compling-program/research/gawron/">Research</a><br> <br>
+<A HREF="http://www-rohan.sdsu.edu/dept/linguist/ma_programs/computational_lgx/index.htm">Comp Ling Program</A><br><br>
+<A HREF="http://www-rohan.sdsu.edu/dept/linguist/ma_programs/computational_lgx/courses_requirements.htm">Curriculum</A><br><br>
+<a href="key.asc">PGP Public key</a><br><br>
+<a href="key_with_photo.asc">PGP key + Photo </a> <br><br>
+<a href="GPG_explanation.html">Explaining PGP</a>
+</td>
+</tr>
+</table>
+
+</td>
+
+<td>
+</td>
+<td colspan=3 valign=top>
+<table>
+<tr>
+<td width="100%">
+<p>
+Wordnet fragment: closeup of a set of semantically related 
+words in Wordnet 3.  
+This network represents only hyponym links and the starting point was the word 
+<em>dog</em>.
+Hover your cursor over a node to see the corresponding word.  
+Try selecting a node and moving it around.
+The network was rendered by Mike Bostock's set of javascript visualization
+tools, D3, via <a href="http://drewconway.com/zia/2013/3/26/visualizing-networkx-graphs-in-the-browser-using-d3">Drew Conway's networkx hooks.</a>
+The colors are chosen by <a href="https://bitbucket.org/taynaud/python-louvain/overview">Thomas Aynaud's implementation of
+the Louvain community detection algorithm</a>, which does a pretty 
+good job of finding the numerous bits of local structure in this graph.  
+Putting thse pieces together was inspired by
+<a href="http://nealcaren.web.unc.edu/a-sociology-citation-network/">
+Neal Caren's citation graph of Sociology papers</a>.
+Those feeling
+adventurous may want to take a look at <a href="person">this much larger graph centered on the word <em>person</em>.</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width=100%>
+<br>
+<iframe width=100% height="400" src="dog/" marginwidth="0" marginheight="0" scrolling="yes"></iframe>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top">
+Department of Linguistics <br>
+San Diego State University <br>
+5500 Campanile Dr. <br>
+San Diego, CA 92182-7727<br>
+<br>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+&nbsp;
+</td>
+
+<td width="70%" colspan=3>
+<p>
+"I have come to believe that the whole world is an enigma, a harmless enigma
+that is made terrible by our own mad attempt to interpret it as though it had
+an underlying truth."
+-- Umberto Eco<br>
+</td>
+</tr>
+<tr>
+<td colspan=4>
+<ul>
+<H3>Computational Linguistics Certificate</H3>
+<p>
+<p>
+<table width="80%">
+<tr>
+<td>
+The Computational Linguistics program at SDSU is
+offering a new certificate in Computational Linguistics for
+which undergrads, grads, and community members may qualify.
+<a href="CompLingCert.rtf">Details</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+</tr>
+</tr>
+</table>
+</table>
+<div>
+<UL>
+
+<table border bgcolor="lightgray" fgcolor="#ffffff" width=75%>
+<tr>
+<td bgcolor="white">
+ &nbsp;
+</td>
+<td bgcolor="white">
+<H2><a name="Classes"> Courses</a> </H2>
+</td>
+<tr>
+<td>
+Spring 2016
+</td>
+<td>
+<table>
+
+<tr>
+<td valign="top">
+Ling 522
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/semantics/">
+   Intro to semantics</A>
+</td>
+<td valign="top">
+Meaning: What is it?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 581
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/compling/">
+   Intro to computational linguistics</A>
+</td>
+<td valign="top">
+Computing with words & linguistic structure
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 626
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/pragmatics/">
+   Pragmatics</A>
+</td>
+<td valign="top">
+How to mean things (but not why)
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2015
+</td>
+<td>
+<table>
+
+<tr>
+<td valign="top">
+Ling 522
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/syntax/">
+   Intro to syntax</A>
+</td>
+<td valign="top">
+Structure: What is it good for?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 572
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/python_for_ss/">
+   Python for Social Science
+</td>
+<td valign="top">
+Coping with the data explosion
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2014
+</td>
+<td>
+<table>
+
+<tr>
+<td valign="top">
+Ling 522
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/syntax/">
+   Intro to syntax</A>
+</td>
+<td valign="top">
+Structure: What is it good for?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 572
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/python_for_ss/">
+   Python for Social Science
+</td>
+<td valign="top">
+Coping with the data explosion
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+Spring 2014
+</td>
+<td>
+<table>
+
+<tr>
+<td valign="top">
+Ling 525
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/semantics/">
+   Intro to semantics</A>
+</td>
+<td valign="top">
+Meaning: What is it?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 581
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/compling/">
+   Intro to computational linguistics</A>
+</td>
+<td valign="top">
+Computing with woids
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 596
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/python_for_ss/">
+   Python for social scientists</A>
+</td>
+<td valign="top">
+Coping with the data explosion
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+Fall 2013
+</td>
+<td>
+<table>
+
+<tr>
+<td valign="top">
+Ling 522
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/syntax/">
+   Intro to syntax</A>
+</td>
+<td valign="top">
+Structure: What is it good for?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 570
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/mathling/">
+   Intro to mathematical linguistics</A>
+</td>
+<td valign="top">
+Sets, logic, lattices, linguistic applications
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr> 
+<td>
+Spring 2013
+</td>
+<td valign="top">
+<table>
+<tr>
+<table>
+
+<tr>
+<td valign="top">
+Ling 525
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/semantics/">
+   Intro to semantics</A>
+</td>
+<td valign="top">
+Language: What does it mean?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 503
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/functions_of_language/">
+   Functions of Language</A>
+</td>
+<td valign="top">
+Language: What is it for?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 581
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/compling/">
+   Intro to computational linguistics</A>
+</td>
+<td valign="top">
+Computational approaches to language
+</td>
+</tr>
+</table>
+</tr>
+</tr>
+<tr> 
+<td>
+Fall 2012
+</td>
+<td valign="top">
+<table>
+<tr>
+<table>
+
+<tr>
+<td valign="top">
+Ling 522
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/syntax/">
+   Intro to syntax</A>
+</td>
+<td valign="top">
+Structure: What is it good for?
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 570
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/mathling/">
+   Intro to mathematical linguistics</A>
+</td>
+<td valign="top">
+Sets, logic, lattices, linguistic applications
+</td>
+</tr>
+</table>
+</tr>
+</tr>
+<tr> 
+<td>
+Spring 2012
+</td>
+<td valign="top">
+<table>
+<tr>
+<table>
+
+<tr>
+<td valign="top">
+Ling 525
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/semantics/">
+   Intro to Semantics</A>
+</td>
+<td valign="top">
+Meaning and form
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 581
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/compling/">
+   Computational Linguistics</A>
+</td>
+<td valign="top">
+Processing words, sentences, documents
+</td>
+</tr>
+<tr>
+<td valign="top">
+Ling 501
+</td> 
+<td valign = top>  <A href="http://www.rohan.sdsu.edu/~gawron/fundamentals/">
+   Fundamentals of Ling</A>
+</td>
+<td valign="top">
+Languistic structure and what it's good for
+</td>
+</tr>
+
+</table>
+</tr>
+</tr>
+</table>
+</p>
+<div>
+<p>
+<H2>Software</H2>
+<LI> <a href="word_sim_package.tar.gz">Word similarity tools.</a>
+<LI> <a href="crawler_package-0.1.tar.gz">Basic crawler module: A host of Python components implementing a basic crawler for data collection.</a>
+<LI> <a href="archiver.zip">Archiver module: Presupposes crawler.  Creates archive of compressed text files,  WithTwitter data, can be used to store various augmented information in an Excel file, including page rank, and disabbreviated web links with title info.</a>
+<p>
+<H2>Recent Papers and Talks</H2>
+<UL>
+<LI> <a href="submitted_spatial_aspect.pdf">The Lexical Semantics of Extent Verbs</a>
+This version of the work descending from
+the "Generalized Paths" Salt paper is under submission and will be stable
+a while.
+<li> <a href="frames_hand.pdf">Argument Structure as soft constraints</a> (talk
+given at Xerox Parc March 9, 2008)
+<li> <a href="http://repositories.cdlib.org/ucsdling/sdlp3/1">
+Interpreting Words</a> (current draft entitled: <I>Circumstances
+and Perspective: The Logic of Argument Structure</I>)
+<LI> Paths and the Language of Change (<a href="paths_change.pdf">pdf</a>, <a href="new_scales_paper.pdf">Old version</a>,
+<a href="scales_hand-2pg.pdf">ps handout</a>,
+<a href="scales_hand-2pg.ps">ps handout</a>)
+<LI> 
+Generalized Paths
+(<A HREF="salt_hand.pdf">Salt XV handout</A>,
+<A HREF="salt_paper.pdf">Salt XV paper</A>,
+)
+<LI> 
+Motion, Scalar Paths, and Lexical Aspect
+(<A HREF="new_motion_to_state_handout.pdf">pdf version</A>)
+<LI> 
+Frames and Lexical Semantics
+(<A HREF="frame_perspective.ps">ps version</A>)
+<LI> 
+Two Kinds of Determiner in DP
+(<A HREF="http://www.rohan.sdsu.edu/~gawron/lsa_hand.ps">
+    LSA handout [postscript]</A>,
+ <A HREF="http://www.rohan.sdsu.edu/~gawron/lsa_talk.ps">
+  LSA  talk [postscript]</A>)
+<ul>
+<li> Handout contains a superset of the LSA talk handout
+<li> Talk contains read version of the LSA talk, some
+clarification of material in the handout
+</ul>
+<LI> 
+Abduction and Mismatch in Machine Translation 
+(<A HREF="http://www.rohan.sdsu.edu/~gawron/mt_paper.pdf">pdf version</A>,
+<A HREF="http://www.ai.sri.com/~gawron/mt_paper.ps"> ps version</A>)
+<LI> Universal Concessive Conditionals (<A HREF="nuccpap.ps">
+ps</A>, <A HREF="nuccpap.pdf">
+pdf</A>)
+</UL>
+
+<H3>Projects</H3>
+<UL>
+<LI> <a HREF="http://mappingideas.sdsu.edu">Mapping ideas</a>
+<LI> <A HREF="http://bulba.sdsu.edu/framenetmt">Machine Translation
+with FrameNet</A>
+<LI> <A HREF="http://www.ai.sri.com/natural-language/projects/arpa-sls/nat-lang.html">Gemini</A>
+<LI> <A HREF="http://www.ai.sri.com/aic/natural-language/natural-language.html#spoken-language">Spoken Language Systems</A>
+<LI> <A HREF="http://jazz.alexanderstreet.com.libproxy.sdsu.edu/View/547208/">
+Bill Evans</a>
+</UL>
+
+
+<h2>Oddz Endz</h2>
+
+<ul>
+<li> <a href="http://www.utexas.edu/courses/myth/12.Icarus.htm">
+Cynthia Shelmerdine's Icarus page </a> (especially Muriel Rukeyser's
+contribution)
+<li> <a href="http://www.johnsayles.com/movies.html">John Sayles</a>
+<li> <a href="http://web.mac.com/therealjanesmiley/iWeb/Site/index.html">
+Jane Smiley</a> (Not that fond of <I>Private Lives</I>, but
+<I>Horse Heaven</i>, <I>A Thousand Acres</i>, <I>Moo</i>,
+<I>Ten Days in the Hills</I>, <I>Duplicate Keys</I> and <I>Good Faith</I>
+are not only all stunning, but stunning in their variety)
+<li> <a href =" http://www.wikilivres.ca/wiki/The_Black_Girl_in_Search_of_God">The Adventures of the Black Girl in her Search for God. G. B. Shaw.</a>
+</ul>
+
+
+<H2>Corpora and Resources</H2>
+<UL>
+<LI> <A HREF="aligned_texts">
+Japanese English aligned texts</A>
+</UL>
+
+<p>
+<p>
+<table border>
+<tr>
+<td valign=top>
+<h2>Novels</h2>
+</td>
+<td>
+&nbsp;
+</td>
+<td>
+<img src="algorithm.png" width=190>
+</td>
+<td>
+<img src="Traume.jpg" width=190>
+</td>
+<td>
+<img width= 135 src="Apology.jpg" width=190>
+</td>
+</tr>
+</table>
+<hr>
+
+
+Other Stuff: <A HREF="http://www.google.com">Google</A>, <A HREF="http://altavista.digital.com/">Alta Vista</A>
+
+<h3>Other Things to Do</A></h3>
+
+<UL>
+<li><a href="http://www.utoronto.ca/webdocs/HTMLdocs/NewHTML/book.html ">HTML book</a>
+<LI> <A HREF="http://imagiware.com/RxHTML.cgi">Dr.HTML will fix your web page</A>
+<LI> Dictionaries: <A HREF="http://www.yourdictionary.com">Bucknell dictionaries,</A>
+<A HREF="http://www.emich.edu/~linguist/dictionaries.html">EMich dictionaries</A>
+
+</UL>
+<img src=http://www.sdsu.edu/cgi-bin/nph-counter?url="http://www.rohan.sdsu.edu/~gawron/index.htm"&width=5 alt="counter"> 
+
+
+<hr>
+<address> Jean Mark Gawron 
+</address> SDSU, 5900 Campanile Drive, San Diego, CA 92182-7717
+<hr size=3 width=80% noshade>
+
+<!-- hhmts start -->
+Last modified: Tue Aug 22 15:39:48 2000
+<!-- hhmts end -->
+</body>
+
+
+
+
+
+
+
